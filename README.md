@@ -51,4 +51,4 @@ __2.2. Distribución geográfica__
 
 Es endémica de Chile central, en los sectores precordilleranos de la Región de Coquimbo, entre 500 y 2.400 msnm. Ha sido registrada en Punitaqui y en los alrededores de Combarbalá, existen poblaciones con los caracteres diagnósticos de esta especie en la Región de Valparaíso, en Petorca. Aun cuando es probable su presencia en la Reserva Nacional Las Chinchillas debido a la cercanía geográfica, no se ha documentado su presencia en las inmediaciones de ésta. La especie también se puede encontrar en Argentina, Bolivia, Brasil, Paraguay y Uruguay.
 
-![alt text] (https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/1eecc5a90353ac6267e53d79a9215daf502cbaa3/img/mapa.jpeg) 
+![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/1eecc5a90353ac6267e53d79a9215daf502cbaa3/img/mapa.jpeg "Foto2") 
