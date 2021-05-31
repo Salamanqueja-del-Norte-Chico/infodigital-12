@@ -70,6 +70,6 @@ Hasta el momento, la especie no presentaría amenazas actuales, pero el crecimie
 
 Por otra parte, no existe uniformidad en las categorías de “Rara” e “Inadecuadamente Conocida”. Muchas de las especies que en las primeras categorizaciones se las incorporaba al estatus de “Inadecuadamente Conocida”, fueron con posterioridad asignadas a la categoría de “Rara”, probablemente debido a que a pesar de mayores prospecciones, sus antecedentes tanto biológicos como distribucionales no fueron aumentados. Este es el caso de especies como Homonota gaudichaudii, H. penai, Liolaemus fitzingerii, L. kingi y L. stolzmanni que en Glade (1988) estaban asignadas a la categoría de “Inadecuadamente Conocida” y que posteriormente Nuñez et al. (1997) y SAG (1998) categorizan como “Rara”. En otros casos, la tendencia ha sido aumentar el estatus de riesgo, tal como Phymaturus palluma y Pristidactylus torquatus.
 
-### __3. Familia: Geckos__
+### __4. Familia: Geckos__
 
 A partir de esto describieron una serie de especies de reptiles entre los cuales están tres gekkos Phyllodactylus gymnopygus (=P. gerrhopygus), Gymnodactylus gaudichaudi y G. dorbignyi (=Homonota gaudichaudi) y cinco lagartijas del género Liolaemus que en sus descripciones fueron adscritas al género Proctotretus: L. cyanogaster, L. fitzingerii, L. pictus, L. signifer, L. tenuis y un tejido Aporomera ornata (=Callopistes maculatus).
