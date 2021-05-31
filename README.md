@@ -13,7 +13,7 @@
 5. Clase: Reptilia 
 6. Género: Homonota
 
-###__1. Características morfológicas__
+### __1. Características morfológicas__
 
 __1.1. Aspecto físico__
 
@@ -37,7 +37,7 @@ __1.3. Metabolismo__
 
 Por otra parte, las tasas metabólicas de Homonota gaudichaudii son comparativamente más bajas que las de otras especies de igual tamaño, lo cual sumado a sus bajas temperaturas corporales, permitiría a esta especie explotar ambientes nocturnos. Las mediciones metabólicas han permitido además hacer estimaciones concretas de los requerimientos alimentarios; Bozinovic & Rosenmann (1988) determinaron que un individuo de la culebra Phylodrias chamissonis de 180 g consumiendo un ratón de 30 g podría mantenerse activo por unos 18 días, a una temperatura ambiental diurna de 27º C y de 15º C durante la noche. 
 
-###__2. Hábitat__
+### __2. Hábitat__
 
 __2.1. Preferencias de hábitat__
 
@@ -53,7 +53,7 @@ Es endémica de Chile central, en los sectores precordilleranos de la Región de
 
 ![alt text] (https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/1eecc5a90353ac6267e53d79a9215daf502cbaa3/img/mapa.jpeg) 
 
-###__3. Población__
+### __3. Población__
 
 __3.1. Tamaño Poblacional Estimado, Abundancia Relativa, Estructura Y Dinámica Poblacional__
 
