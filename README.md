@@ -13,7 +13,7 @@
 5. Clase: Reptilia 
 6. Género: Homonota
 
-__1. Características morfológicas__
+###__1. Características morfológicas__
 
 __1.1. Aspecto físico__
 
@@ -37,9 +37,7 @@ __1.3. Metabolismo__
 
 Por otra parte, las tasas metabólicas de Homonota gaudichaudii son comparativamente más bajas que las de otras especies de igual tamaño, lo cual sumado a sus bajas temperaturas corporales, permitiría a esta especie explotar ambientes nocturnos. Las mediciones metabólicas han permitido además hacer estimaciones concretas de los requerimientos alimentarios; Bozinovic & Rosenmann (1988) determinaron que un individuo de la culebra Phylodrias chamissonis de 180 g consumiendo un ratón de 30 g podría mantenerse activo por unos 18 días, a una temperatura ambiental diurna de 27º C y de 15º C durante la noche. 
 
-
-
-__2. Hábitat__
+###__2. Hábitat__
 
 __2.1. Preferencias de hábitat__
 
@@ -53,4 +51,21 @@ __2.2. Distribución geográfica__
 
 Es endémica de Chile central, en los sectores precordilleranos de la Región de Coquimbo, entre 500 y 2.400 msnm. Ha sido registrada en Punitaqui y en los alrededores de Combarbalá, existen poblaciones con los caracteres diagnósticos de esta especie en la Región de Valparaíso, en Petorca. Aun cuando es probable su presencia en la Reserva Nacional Las Chinchillas debido a la cercanía geográfica, no se ha documentado su presencia en las inmediaciones de ésta. La especie también se puede encontrar en Argentina, Bolivia, Brasil, Paraguay y Uruguay.
 
-![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/1eecc5a90353ac6267e53d79a9215daf502cbaa3/img/mapa.jpeg "Foto2") 
+![alt text] (https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/1eecc5a90353ac6267e53d79a9215daf502cbaa3/img/mapa.jpeg) 
+
+###__3. Población__
+
+__3.1. Tamaño Poblacional Estimado, Abundancia Relativa, Estructura Y Dinámica Poblacional__
+
+Es una especie poco frecuente y poco abundante. 
+
+__3.2. Descripción De Usos De La Especie: Principales Amenazas Actuales Y Potenciales__
+
+Hábitat / Degradación (Causa antrópica), Ganado/Pequeños ganaderos. Aparentemente esta especie solo se encuentra en ambientes específicos y poco intervenidos. En la actualidad su hábitat está sumamente degradado por la ganadería caprina, siendo relativamente difícil encontrar poblaciones abundantes
+
+__3.3.  Estados De Conservación Vigentes En Chile Para Esta Especie Ds N° 29/2011 Mma__
+Según el Reglamento de Clasificación de Especies Silvestres, la especie se encuentra en la categoría de Preocupación Menor debido a su amplia distribución. Sin embargo, entre Coquimbo y el Maule, su estado es Vulnerable, mientras que entre Arica y Parinacota hasta Atacama, está clasificada como Rara. 
+Hasta el momento, la especie no presentaría amenazas actuales, pero el crecimiento urbano costero litoral de la IV y V Región ha deteriorado parte sus hábitats, así como también la tala ilegal de cactus que le sirven de refugio, podría en el futuro significar una amenaza.
+
+Por otra parte, no existe uniformidad en las categorías de “Rara” e “Inadecuadamente Conocida”. Muchas de las especies que en las primeras categorizaciones se las incorporaba al estatus de “Inadecuadamente Conocida”, fueron con posterioridad asignadas a la categoría de “Rara”, probablemente debido a que a pesar de mayores prospecciones, sus antecedentes tanto biológicos como distribucionales no fueron aumentados. Este es el caso de especies como Homonota gaudichaudii, H. penai, Liolaemus fitzingerii, L. kingi y L. stolzmanni que en Glade (1988) estaban asignadas a la categoría de “Inadecuadamente Conocida” y que posteriormente Nuñez et al. (1997) y SAG (1998) categorizan como “Rara”. En otros casos, la tendencia ha sido aumentar el estatus de riesgo, tal como Phymaturus palluma y Pristidactylus torquatus.
+
