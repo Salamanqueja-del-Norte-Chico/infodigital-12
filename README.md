@@ -91,4 +91,5 @@ A partir de esto describieron una serie de especies de reptiles entre los cuales
 3. [They are very close ... and you can't escape them](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/201709A144.html)
 ![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/e4ff40721d1a48b371d72685c4c9698fda24322e/img/They_are_very_close_and_you_can't_escape_them.jpg "no escape")
 4. [Coconut harvesters or slaves?](https://multimedia.scmp.com/infographics/news/world/article/3094954/coconut-harvest/index.html)
+
 ![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/e4ff40721d1a48b371d72685c4c9698fda24322e/img/coconut.png "coconut")
