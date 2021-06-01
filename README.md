@@ -53,12 +53,12 @@ __2.1. Preferencias de hábitat__
 
 La salamanqueja se distribuye desde la II a la IV región, habitando lugares cercanos a las costas, en rocas y arenilla hasta los 50 msnm. Su hábitat lo constituyen las zonas pedregosas, desierto costero hasta porción superior de zonas de influencia neblina, de preferencia bajo o asociado a Puya spp. El Gecko o salamanqueja en número más bien son minorías, además son difícil de encontrarlos, ya que este reptil solo sale de noche, sin embargo es posible que los encuentre bajo Eulychnia acida ("copao") o bajo rocas, que por cierto, el contacto con ellas le ayuda a regular su temperatura corporal.
 
-Área de ocupación en Chile (km2 )=> 125 
 ![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/5b04bc930d98179a7c5faaf511f276418955e511/img/desierto-costero.png "Desierto") 
 
 Habita sectores pedregosos con vegetación arbustiva, cactus columnares y presencia de líquenes. Se encuentra especialmente en aquellas piedras asociadas a vegetación y bajo las que existe hojarasca o tierra con abundante materia orgánica. También está asociado a cuerpos de agua como lagunas y tranques. Se refugia en pircas o en el suelo bajo piedras. Además, se han registrado individuos en habitaciones humanas. Se oculta con cierta predilección bajo las pircas de piedra. Su hábitat lo constituyen las zonas pedregosas. Desierto costero hasta porción superior de zonas de influencia neblina. De preferencia bajo o asociado a Puya spp.
 
 Área de ocupación en Chile (km2 )=> 125 
+
 ![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/e35b26b35f9eac440d4f8da56f3115d293d1e3b4/img/puya.png "Desierto") 
 
 __2.2. Distribución geográfica__
