@@ -20,6 +20,7 @@
 ![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/6d0a68ae2a88faf6144c912f4b4410e7c96e2524/img/Salamanqueja3.jpg "Salamanqueja del Norte Chico 3")
 
 
+
 ### __1. Características morfológicas__
 
 __1.1. Aspecto físico__
@@ -45,6 +46,7 @@ __1.3. Metabolismo__
 Por otra parte, las tasas metabólicas de Homonota gaudichaudii son comparativamente más bajas que las de otras especies de igual tamaño, lo cual sumado a sus bajas temperaturas corporales, permitiría a esta especie explotar ambientes nocturnos. Las mediciones metabólicas han permitido además hacer estimaciones concretas de los requerimientos alimentarios; Bozinovic & Rosenmann (1988) determinaron que un individuo de la culebra Phylodrias chamissonis de 180 g consumiendo un ratón de 30 g podría mantenerse activo por unos 18 días, a una temperatura ambiental diurna de 27º C y de 15º C durante la noche. 
 
 
+
 ### __2. Hábitat__
 
 __2.1. Preferencias de hábitat__
@@ -66,6 +68,7 @@ Es endémica de Chile central, en los sectores precordilleranos de la Región de
 ![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/1eecc5a90353ac6267e53d79a9215daf502cbaa3/img/mapa.jpeg "Foto2") 
 
 
+
 ### __3. Población__
 ![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/5b04bc930d98179a7c5faaf511f276418955e511/img/poblacion.png "Foto2") 
 
@@ -84,9 +87,13 @@ Hasta el momento, la especie no presentaría amenazas actuales, pero el crecimie
 
 Por otra parte, no existe uniformidad en las categorías de “Rara” e “Inadecuadamente Conocida”. Muchas de las especies que en las primeras categorizaciones se las incorporaba al estatus de “Inadecuadamente Conocida”, fueron con posterioridad asignadas a la categoría de “Rara”, probablemente debido a que a pesar de mayores prospecciones, sus antecedentes tanto biológicos como distribucionales no fueron aumentados. Este es el caso de especies como Homonota gaudichaudii, H. penai, Liolaemus fitzingerii, L. kingi y L. stolzmanni que en Glade (1988) estaban asignadas a la categoría de “Inadecuadamente Conocida” y que posteriormente Nuñez et al. (1997) y SAG (1998) categorizan como “Rara”. En otros casos, la tendencia ha sido aumentar el estatus de riesgo, tal como Phymaturus palluma y Pristidactylus torquatus.
 
+
+
 ### __4. Familia: Geckos__
 
 A partir de esto describieron una serie de especies de reptiles entre los cuales están tres gekkos Phyllodactylus gymnopygus (=P. gerrhopygus), Gymnodactylus gaudichaudi y G. dorbignyi (=Homonota gaudichaudi) y cinco lagartijas del género Liolaemus que en sus descripciones fueron adscritas al género Proctotretus: L. cyanogaster, L. fitzingerii, L. pictus, L. signifer, L. tenuis y un tejido Aporomera ornata (=Callopistes maculatus).
+
+
 
 ### __5. Bibliografía__
 
@@ -96,6 +103,8 @@ A partir de esto describieron una serie de especies de reptiles entre los cuales
 4. [https://www.researchgate.net/publication/279512974_Herpetologia_de_Chile](https://www.researchgate.net/publication/279512974_Herpetologia_de_Chile)
 5. [http://www.chileasp.cl/wp-content/uploads/2019/07/SALAMANQUEJA.pd](http://www.chileasp.cl/wp-content/uploads/2019/07/SALAMANQUEJA.pd)
 6. [http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=833&Version=1](http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=833&Version=1)
+
+
 
 ### __6. Referencias Infografias__
 
