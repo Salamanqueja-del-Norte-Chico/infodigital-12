@@ -73,3 +73,22 @@ Por otra parte, no existe uniformidad en las categorías de “Rara” e “Inad
 ### __4. Familia: Geckos__
 
 A partir de esto describieron una serie de especies de reptiles entre los cuales están tres gekkos Phyllodactylus gymnopygus (=P. gerrhopygus), Gymnodactylus gaudichaudi y G. dorbignyi (=Homonota gaudichaudi) y cinco lagartijas del género Liolaemus que en sus descripciones fueron adscritas al género Proctotretus: L. cyanogaster, L. fitzingerii, L. pictus, L. signifer, L. tenuis y un tejido Aporomera ornata (=Callopistes maculatus).
+
+### __5. Bibliografía
+
+1. [link text itself](http://www.mma.gob.cl/clasificacionespecies/fichas10proceso/fichas_10_pac/Homonota_gaudichaudii_ANTES_Homonota_penai_10RCE_03_04_PAC.pdf)
+2. [link text itself](https://cerrogrande.weebly.com/homonota-gaudichaudi-salamanqueja-del-norte-chico.html)
+3. [link text itself](http://selectiondynamics.weebly.com/uploads/1/0/9/7/10973832/pd_notmnhn2006_geckosi.pdf)
+4. [link text itself](https://www.researchgate.net/publication/279512974_Herpetologia_de_Chile)
+5. [link text itself](http://www.chileasp.cl/wp-content/uploads/2019/07/SALAMANQUEJA.pd)
+6. [link text itself](http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=833&Version=1)
+
+### __6. Referencias Infografias
+1. [Assessing Australia’s “ecological disaster”](https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html)
+![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/c1c02b1a9b86fd8ecd25187761954be904ac7338/img/australia-bird.png "Australian Bird")
+2. [China's wildlife trade](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202003A250.html)
+![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/e4ff40721d1a48b371d72685c4c9698fda24322e/img/china's%20wildlife.png "China wildlife")
+3. [They are very close ... and you can't escape them](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/201709A144.html)
+![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/e4ff40721d1a48b371d72685c4c9698fda24322e/img/They_are_very_close_and_you_can't_escape_them.jpg "no escape")
+4. [Coconut harvesters or slaves?](https://multimedia.scmp.com/infographics/news/world/article/3094954/coconut-harvest/index.html)
+(https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/e4ff40721d1a48b371d72685c4c9698fda24322e/img/coconut.png "coconut")
