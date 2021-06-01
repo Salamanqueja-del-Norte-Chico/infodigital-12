@@ -13,6 +13,13 @@
 5. Clase: Reptilia 
 6. Género: Homonota
 
+![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/6d0a68ae2a88faf6144c912f4b4410e7c96e2524/img/Salamanqueja1.jpg "Salamanqueja del Norte Chico 1")
+
+![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/6d0a68ae2a88faf6144c912f4b4410e7c96e2524/img/Salamanqueja2.png "Salamanqueja del Norte Chico 2")
+
+![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/6d0a68ae2a88faf6144c912f4b4410e7c96e2524/img/Salamanqueja3.jpg "Salamanqueja del Norte Chico 3")
+
+
 ### __1. Características morfológicas__
 
 __1.1. Aspecto físico__
